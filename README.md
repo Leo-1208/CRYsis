@@ -15,8 +15,8 @@ CryptoHub is a Next.js-based application that allows users to track their crypto
 - **Frontend**: Next.js, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **API**: CoinGecko API, Axios for data fetching
-- **Database**: MongoDB (NoSQL)
-- **Authentication**: JWT, Bcrypt.js
+- **Database**: Firebase
+- **Authentication**: Google Sign-in Provider
 - **State Management**: Context API
 - **Hosting**: Vercel (for frontend), Heroku (for backend)
 - **Testing**: Jest, React Testing Library
