@@ -41,8 +41,8 @@ Make sure you have the following installed:
 2. **Install dependencies:**
 
    ```bash
-npm install
-yarn install
+   npm install
+   yarn install
 
 3. **Set up environment variables:**
 
@@ -51,9 +51,8 @@ Create a .env.local file in the root directory and add your environment variable
 4. **Run the development server:**
 
    ```bash
-Copy code
-npm run dev
-yarn dev
+   npm run dev
+   yarn dev
 
 **Acknowledgements**
 CoinGecko API
