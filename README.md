@@ -43,8 +43,8 @@ Make sure you have the following installed:
 bash
 Copy code
 npm install
-# or
 yarn install
+
 3. **Set up environment variables:**
 
 Create a .env.local file in the root directory and add your environment variables:
@@ -54,7 +54,6 @@ Create a .env.local file in the root directory and add your environment variable
 bash
 Copy code
 npm run dev
-# or
 yarn dev
 
 **Acknowledgements**
