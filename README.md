@@ -40,8 +40,7 @@ Make sure you have the following installed:
    cd cryptohub
 2. **Install dependencies:**
 
-bash
-Copy code
+   ```bash
 npm install
 yarn install
 
@@ -51,7 +50,7 @@ Create a .env.local file in the root directory and add your environment variable
 
 4. **Run the development server:**
 
-bash
+   ```bash
 Copy code
 npm run dev
 yarn dev
